@@ -165,3 +165,9 @@
 .border-left-secondary {
   border-left: 1px solid #d8d5d0;
 }
+
+.block-follow-instagram {
+  border-radius: 10px;
+  width: 400px;
+  height: 200px;
+}

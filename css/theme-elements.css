@@ -19391,7 +19391,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .thumb-info .thumb-info-wrapper:after, .thumb-info .thumb-info-wrapper .thumb-info-wrapper-overlay:before {
 	content: "";
-	background: var(--dark-rgba-80);
+	background: #b8b3ada6;
 	transition: all 0.3s;
 	border-radius: var(--border-radius);
 	bottom: -4px;
