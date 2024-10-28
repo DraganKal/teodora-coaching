@@ -113,6 +113,23 @@
   border-color: #fff;
 }
 
+.btn-white-border-tr {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #b8b3ad;
+}
+
+.btn-white-border-tr:hover {
+  background-color: #b8b3ad !important;
+  border-color: #b8b3ad;
+}
+
+.btn-white-border-tr:active {
+  color: #b8b3ad;
+  background-color: #fff;
+  border-color: #fff;
+}
+
 .bkg-color-primary {
   background-color: #b8b3ad !important;
 }
