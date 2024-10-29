@@ -5322,7 +5322,11 @@ body.dark .pagination > .active > a {
 }
 
 .owl-carousel.dots-light .owl-dots .owl-dot.active span, .owl-carousel.dots-light .owl-dots .owl-dot:hover span {
-	background: #FFF !important;
+	background: #fff !important;
+}
+
+.owl-carousel.dots-primary .owl-dots .owl-dot.active span, .owl-carousel.dots-light .owl-dots .owl-dot:hover span {
+	background: #b8b3ad !important;
 }
 
 .owl-carousel.dots-dark .owl-dots .owl-dot span {
