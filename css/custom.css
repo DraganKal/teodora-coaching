@@ -19,6 +19,10 @@
   color: #d8d5d0 !important;
 }
 
+.color-brown {
+  color: #777777 !important;
+}
+
 .btn-primary-tr {
   background-color: #b8b3ad;
   border-color: #b8b3ad;
@@ -52,6 +56,7 @@
 .btn-secondary-tr:hover {
   background-color: #b8b3ad !important;
   border-color: #b8b3ad;
+  color: #fff;
 }
 
 .btn-secondary-tr:active {
@@ -143,7 +148,7 @@
 }
 
 .number-section::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
