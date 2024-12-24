@@ -6366,7 +6366,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 }
 
 .divider.divider-primary.divider-small hr {
-	background: var(--primary);
+	background: #eae9e9;
 }
 
 .divider.divider-secondary [class*="fa-"], .divider.divider-secondary .icons {
@@ -11324,7 +11324,7 @@ button.mfp-arrow.mfp-arrow-right:after {
 /* Close */
 .mfp-close,
 .mfp-close-btn-in .mfp-close {
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-weight: 600;
 	font-size: 22px;
 	color: #838383;
@@ -17568,6 +17568,14 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	fill:  #d8d5d0 !important;
 }
 
+.svg-fill-color-white-tr {
+	fill: #fff !important;
+}
+
+.svg-fill-color-white-tr svg path, .svg-fill-color-primary svg rect, .svg-fill-color-primary svg line, .svg-fill-color-primary svg polyline, .svg-fill-color-primary svg polygon {
+	fill:  #fff !important;
+}
+
 .svg-fill-color-hover-primary:hover {
 	fill: var(--primary) !important;
 }
@@ -18937,7 +18945,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-3 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -19000,7 +19008,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-4 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1em;
 	font-style: normal;
 }
@@ -19044,7 +19052,7 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link:hover html
 
 .testimonial.testimonial-style-5 blockquote p {
 	color: var(--default);
-	font-family: "Poppins", Arial, sans-serif;
+	font-family: "Montserrat", Arial, sans-serif;
 	font-size: 1.2em;
 	font-style: normal;
 }
@@ -21064,7 +21072,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 
 /* Default Font Style */
 .default-font {
-	font-family: "Poppins", Arial, sans-serif !important;
+	font-family: "Montserrat", Arial, sans-serif !important;
 }
 
 /* Alternative Font Style */
@@ -21082,7 +21090,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 }
 
 .alternative-font-4 {
-	font-family: 'Poppins', Arial, sans-serif !important;
+	font-family: 'Montserrat', Arial, sans-serif !important;
 }
 
 .alternative-font-5 {

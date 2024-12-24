@@ -32,7 +32,7 @@
 .btn-primary-tr:hover {
   color: #b8b3ad !important;
   background-color: #fff !important;
-  border-color: #fff !important;
+  border-color: #b8b3ad !important;
 }
 
 .btn-primary-tr:active {
@@ -139,12 +139,20 @@
   background-color: #b8b3ad !important;
 }
 
+.bkg-color-primary-studio {
+  background-color: #e1dcd8 !important;
+}
+
 .bkg-color-secondary {
   background-color: #d8d5d0 !important;
 }
 
 .bkg-color-tertiary {
   background-color: #edeae7 !important;
+}
+
+.bkg-color-white {
+  background-color: #fff !important;
 }
 
 .number-section::before {
@@ -194,4 +202,96 @@
 
 .program-price {
   font-size: 22px;
+}
+
+.signature-img {
+  height: 60px;
+}
+
+.large-btn-tr {
+  width: 250px;
+  padding: 50px 0 !important;
+}
+
+.f-w-4 {
+  font-weight: 400 !important;
+}
+
+.form-tr-input {
+  border: 1px solid #ced4da !important;
+}
+
+.form-tr-input:active,
+.form-tr-input:focus {
+  border-color: #111 !important;
+}
+
+.tr-design-text {
+  font-size: 12px;
+}
+
+.disclaimer {
+  color: #fff !important;
+}
+
+.disclaimer:hover {
+  color: #d8d5d0 !important;
+}
+
+.besplatni-title-h:before {
+  height: 187px !important;
+}
+
+.shorts-container {
+  border-radius: 10px;
+}
+
+.masterclass-prijava {
+  border-left: 1px solid #e6e6e6;
+}
+
+.expectation-list {
+  max-width: 550px;
+}
+
+.social-heading {
+  display: flex;
+  gap: 4px;
+}
+
+.social-icon-translate {
+  transform: translateY(3px);
+}
+
+.no-border {
+  border: none !important;
+}
+
+.no-scroll {
+  overflow: hidden !important;
+}
+
+.instagram-media {
+  border-radius: 10px !important;
+}
+
+.link-text {
+  color: #b8b3ad;
+}
+
+.no-decoration:link,
+.no-decoration:visited,
+.no-decoration:hover,
+.no-decoration:focus,
+.no-decoration:active {
+  text-decoration: none !important;
+}
+
+.video-container {
+  border-radius: 5px !important;
+}
+
+.video-container video {
+  height: 100%;
+  width: auto;
 }
